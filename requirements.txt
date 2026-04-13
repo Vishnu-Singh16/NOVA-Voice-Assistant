@@ -1,0 +1,6 @@
+customtkinter
+groq
+SpeechRecognition
+send2trash
+pywin32
+pillow
